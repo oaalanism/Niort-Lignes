@@ -1,0 +1,19 @@
+.info div{
+    display: inline;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.lineStation{
+    border-style: solid;
+    border-width: 0.5px;
+}
+
+.icon{
+
+    margin-bottom: -7px;
+}
+
+.line{
+    font-family: 'Courier New', Courier, monospace;
+}
